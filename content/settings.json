@@ -1,26 +1,26 @@
 {
-  "store_id": 51352,
-  "name": "tribourbana",
   "domain": "tribourbana.netlify.app",
-  "short_name": "tribourbana",
-  "description": "tribourbana",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-game"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/tribourbana",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "tribourbana",
+  "short_name": "tribourbana",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/tribourbana",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/favicon.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 51352,
+  "description": "tribourbana",
+  "large_icon": "/img/large-icon.png"
 }
